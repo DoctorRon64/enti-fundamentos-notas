@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\main.cpp(39,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\main.cpp(39,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  fonaments.vcxproj -> D:\_Repo\enti-fonaments-de-la-programacion\fonaments\x64\Debug\fonaments.exe
