@@ -1,4 +1,10 @@
-﻿  main.cpp
-D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\main.cpp(39,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\main.cpp(39,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+﻿  ejercicioDos.cpp
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(10,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(10,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(10,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(10,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(12,31): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(12,31): warning C4305: 'initializing': truncation from '__int64' to 'float'
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(19,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\_Repo\enti-fonaments-de-la-programacion\fonaments\fonaments\ejercicioDos.cpp(79,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   fonaments.vcxproj -> D:\_Repo\enti-fonaments-de-la-programacion\fonaments\x64\Debug\fonaments.exe
